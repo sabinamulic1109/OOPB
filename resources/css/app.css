@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import "~font-awesome/scss/font-awesome.scss"; 
+@import "node_modules/font-awesome/scss/font-awesome";
+@import '~@fontawesome/fontawesome-free/scss/fontawesome';
+@import '~@fontawesome/fontawesome-free/scss/brand';
+@import '~@fontawesome/fontawesome-free/scss/regular';
+@import '~@fontawesome/fontawesome-free/scss/solid';
+@import "node_modules/font-awesome/scss/font-awesome.scss";  
